@@ -449,7 +449,7 @@ margin-right: 2em;
    margin: 0 auto;
  }
  .coast {
-  background-image: url(/img/laptop.jpg); 
+  background-image: url(/img/laptop.PNG); 
   background-position: center;
   background-size: cover;
   color: var(--clr-light);
