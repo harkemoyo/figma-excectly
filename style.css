@@ -269,7 +269,7 @@ line-height:  140%;
 }
 /* start of third layout */
 .expirience {
-  background-image: url(/img/mountain.jpg);
+  background-image: url(img/mountain.jpg);
   background-position: center;
   background-size: cover;
   color: var(--clr-light);
@@ -449,7 +449,7 @@ margin-right: 2em;
    margin: 0 auto;
  }
  .coast {
-  background-image: url(/img/laptop.PNG); 
+  background-image: url(img/laptop.PNG); 
   background-position: center;
   background-size: cover;
   color: var(--clr-light);
@@ -510,7 +510,7 @@ margin-right: 2em;
  /* start of sixth */
  .type {
    color: var(--clr-light);
-   background-image: url(/img/typing.jpg);
+   background-image: url(img/typing.jpg);
    background-position: center;
   background-size: cover;
   object-position: bottom right;
@@ -614,7 +614,7 @@ span{
 }
 /* 9th code */
 .laster {
-  background-image: url(/img/chil.jpg);
+  background-image: url(img/chil.jpg);
   background-size: cover;
   background-position: center;
   object-position:   right;
